@@ -1,3 +1,3 @@
 # Task-Management-WebApp
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/NamalB/Task-Management-WebApp)
+[Click Here to View App](https://stackblitz.com/~/github.com/NamalB/Task-Management-WebApp)
